@@ -24,11 +24,14 @@ Monthly, January 2015 to September 2026.
 ## Key findings
 1. **There's a delay.** Wholesale gas price changes took about 6 months to show up in the Ofgem price cap. Once bills changed, inflation moved the same month. A sustained 10% rise in wholesale gas pushed household energy prices up by about 2% within a year.
 2. **Energy was about a third of the peak.** Household energy added around 3.5 percentage points to inflation in October 2022, when it hit 11.1%. Without the £2,500 Energy Price Guarantee, I estimate inflation would have peaked at about 14%, and a typical household saved around £900.
-3. **The Bank of England was slow to react.** Inflation went above the 2% target in May 2021, seven months before the first rate rise in December 2021. In real terms (Bank Rate minus inflation), interest rates fell to about −8.8%.
+3. **The Bank of England waited.** Inflation went above the 2% target in May 2021, seven months before the first rate rise in December 2021. In real terms (Bank Rate minus inflation), interest rates fell to about −8.8%.
 
 ![Timeline](charts/01_timeline.png)
 
 ![CPI with and without the Energy Price Guarantee](charts/05_epg_counterfactual.png)
+
+## What this means now
+Gas prices are climbing again. In my data, wholesale gas roughly doubled between December 2025 and September 2026, from about 71p to 190p a therm. That's still only around a third of the 2022 peak, but if the six-month lag I found holds, it points to higher price caps over the next few quarters. You can already see the start of it: the cap went up to £1,862 in July 2026, and household energy inflation was back to 7.8% by September. It's nowhere near a repeat of 2022 so far, but it's the same chain playing out again, and I'd like to come back to it once a few more months of data are out.
 
 ## Limitations
 Correlation isn't causation: other shocks (post-Covid demand, supply chains, a weaker pound) overlapped with the energy shock. The counterfactual is first-round only, and Ofgem's typical-household consumption changed in 2020 and 2023.
