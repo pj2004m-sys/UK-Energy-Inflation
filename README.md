@@ -26,9 +26,9 @@ Monthly, January 2015 to September 2026.
 2. Household energy added up to 3.5 percentage points to inflation (Oct 2022); without the £2,500 Energy Price Guarantee, CPI would have peaked at about 14.0% instead of 11.1%, and a typical household saved about £902.
 3. CPI went above the 2% target in May 2021, 7 months before the first Bank Rate rise (December 2021); the real Bank Rate fell to -8.8%.
 
-![Timeline](charts/01_timeline.png)
 
-![CPI with and without the Energy Price Guarantee](charts/05_epg_counterfactual.png)
+
+
 
 ## Limitations
 Correlation does not prove causation: other shocks (post-Covid demand, supply chains, sterling) overlapped with the energy shock. The counterfactual is first-round only, and Ofgem's typical-household consumption changed in 2020 and 2023.
