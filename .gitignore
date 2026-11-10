@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local outputs from the notebook
+linkedin_post_draft.txt
+*_outputs.zip
