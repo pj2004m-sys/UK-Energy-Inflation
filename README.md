@@ -1,6 +1,6 @@
 # How much did the 2021–23 energy price shock drive UK inflation?
 
-## Question
+## Background
 UK inflation hit 11.1% in October 2022, and most of the coverage at the time blamed energy. I wanted to check that with the data: how much of the 2021–23 rise in inflation came from energy, and how long did wholesale gas price rises take to reach household bills (the Ofgem price cap) and CPI?
 
 I also wanted to see what Python can really do. A real economics question felt like a more valuable introduction than a tutorial, and after my dissertation I wanted to stay within the energy sector.
@@ -14,12 +14,12 @@ Monthly, January 2015 to September 2026.
 - **Our World in Data** (Ember / Energy Institute): electricity generation by source
 
 ## Method
-1. Put every series on a monthly (month-start) calendar, converted wholesale gas to pence per therm at monthly exchange rates, and forward-filled the price cap.
-2. Estimated pass-through lags by correlating 3-month changes in log prices at lags of 0–12 months (gas → cap, bill → energy CPI).
-3. Fitted a 12-month distributed-lag regression of CPI energy prices on wholesale gas to measure the size of the pass-through.
-4. Split headline inflation into core, the non-core gap and an estimate of energy's contribution (weight × rate).
-5. Calculated the Energy Price Guarantee saving per household and a first-round estimate of CPI without the guarantee.
-6. Compared the timing of Bank Rate rises with CPI, and compared the UK with France and Germany.
+1. **Lined the data up.** Put every series on the same monthly timeline, converted wholesale gas prices from dollars to pence per therm, and carried the price cap forward through the months between changes.
+2. **Measured the delay.** Compared changes in gas prices with changes in the price cap (and bills with energy inflation), shifting them by 0 to 12 months to see which delay matched best.
+3. **Measured the size.** Used a regression to estimate how much of a rise in wholesale gas ends up in household energy prices over the following 12 months.
+4. **Split up inflation.** Compared headline and core inflation, and estimated energy's share of the total from its weight in the CPI basket and how fast its price was rising.
+5. **Looked at the Energy Price Guarantee.** Worked out the saving for a typical household, and estimated what inflation would have been if bills had followed the Ofgem cap instead.
+6. **Compared the response.** Checked when the Bank of England first raised rates against when inflation passed 2%, and compared the UK with France and Germany.
 
 ## Key findings
 1. **There's a delay.** Wholesale gas price changes took about 6 months to show up in the Ofgem price cap. Once bills changed, inflation moved the same month. A sustained 10% rise in wholesale gas pushed household energy prices up by about 2% within a year.
