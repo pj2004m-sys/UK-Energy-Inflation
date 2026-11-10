@@ -1,7 +1,5 @@
 # How much did the 2021–23 energy price shock drive UK inflation?
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pj2004m-sys/UK-Energy-Inflation/blob/main/uk_energy_inflation.ipynb)
-
 ## Question
 UK inflation hit 11.1% in October 2022, and most of the coverage at the time blamed energy. I wanted to check that with the data: how much of the 2021–23 rise in inflation came from energy, and how long did wholesale gas price rises take to reach household bills (the Ofgem price cap) and CPI?
 
@@ -34,4 +32,4 @@ Monthly, January 2015 to September 2026.
 Correlation isn't causation: other shocks (post-Covid demand, supply chains, a weaker pound) overlapped with the energy shock. The counterfactual is first-round only, and Ofgem's typical-household consumption changed in 2020 and 2023.
 
 ## Run it
-Click the **Open in Colab** badge above and choose **Runtime → Run all**. The notebook uses the copies of the data saved in `data/`, and downloads fresh copies for anything that's missing.
+Install the packages with `pip install -r requirements.txt`, then open `uk_energy_inflation.ipynb` in Jupyter and run all the cells. The notebook uses the copies of the data saved in `data/`, and downloads fresh copies for anything that's missing.
