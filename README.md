@@ -3,7 +3,7 @@
 ## Background
 UK inflation hit 11.1% in October 2022, and most of the coverage at the time blamed energy. I wanted to check that with the data: how much of the 2021–23 rise in inflation came from energy, and how long did wholesale gas price rises take to reach household bills (the Ofgem price cap) and CPI?
 
-I also wanted to see what Python can really do. A real economics question felt like a more valuable introduction than a tutorial, and after my dissertation I wanted to stay within the energy sector.
+I also wanted to see what Python can really do. A real economics question felt like a more valuable introduction than a tutorial, and following on from my dissertation I wanted to stay within the energy sector.
 
 ## Data
 Monthly, January 2015 to September 2026.
