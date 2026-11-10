@@ -20,9 +20,9 @@ Monthly, January 2015 to September 2026.
 6. Compared the timing of Bank Rate rises with CPI, and compared the UK with France and Germany.
 
 ## Key findings
-1. Wholesale gas changes took about 6 months to show up in the Ofgem price cap, and bill changes reached CPI in the same month; a sustained 10% rise in wholesale gas lifted CPI energy prices by about 2.0% within a year.
-2. Household energy added up to 3.5 percentage points to inflation (Oct 2022); without the £2,500 Energy Price Guarantee, CPI would have peaked at about 14.0% instead of 11.1%, and a typical household saved about £902.
-3. CPI went above the 2% target in May 2021, 7 months before the first Bank Rate rise (December 2021); the real Bank Rate fell to -8.8%.
+1. **There's a delay.** Wholesale gas price changes took about 6 months to show up in the Ofgem price cap. Once bills changed, inflation moved the same month. A sustained 10% rise in wholesale gas pushed household energy prices up by about 2% within a year.
+2. **Energy was about a third of the peak.** Household energy added around 3.5 percentage points to inflation in October 2022, when it hit 11.1%. Without the £2,500 Energy Price Guarantee, I estimate inflation would have peaked at about 14%, and a typical household saved around £900.
+3. **The Bank of England was slow to react.** Inflation went above the 2% target in May 2021, seven months before the first rate rise in December 2021. In real terms (Bank Rate minus inflation), interest rates fell to about −8.8%.
 
 ![Timeline](charts/01_timeline.png)
 
