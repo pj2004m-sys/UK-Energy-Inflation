@@ -1,6 +1,6 @@
 # How much did the 2021–23 energy price shock drive UK inflation?
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pk2004m-sys/uk_energy_inflation/blob/main/uk_energy_inflation.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pj2004m-sys/UK-Energy-Inflation/blob/main/uk_energy_inflation.ipynb)
 
 ## Question
 How much of the 2021–23 rise in UK inflation came from energy, and how long did wholesale gas price rises take to reach household bills (the Ofgem price cap) and CPI?
